@@ -1,0 +1,8 @@
+
+CustomGear 修复了原来附属 extragear的汉化错误诸如（肛剑），并且腐竹可以自定义和修改武器的附魔属性（将这个替换掉原来的ExtraGear附属）
+太空科技在粘液科技的items配置里把BEDROCK_DRILL解ban，ENDLESS_GENERATOR将hide-in-guide改为false （这是创造发电机awa可以作为氪金项目，玩家合成不了）
+safebackpack附属 把safebackpack.dye.*权限给玩家开启，可以让玩家给背包染色
+灵魂瓶子附属直接加
+
+
+

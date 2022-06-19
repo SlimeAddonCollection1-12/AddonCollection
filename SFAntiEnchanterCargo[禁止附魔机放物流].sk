@@ -1,0 +1,11 @@
+on right click:
+	if block is enchantment table:
+		if name of player's tool is "§7运输接口 §c(输入)" :
+			send message "&f[&e粘液科技&f] 附魔机无法连接物流！" to the player
+			cancel event
+		if name of player's tool is "§7运输接口 §c(输出)" :
+			send message "&f[&e粘液科技&f] 附魔机无法连接物流！" to the player
+			cancel event
+		if name of player's tool is "§6高级运输接口 §c(输出)" :
+			send message "&f[&e粘液科技&f] 附魔机无法连接物流！" to the player
+			cancel event
